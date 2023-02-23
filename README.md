@@ -20,9 +20,13 @@ Esta é uma solução para o [exercício do Curso Dev Quest](https://www.figma.c
 
 ### Captura de tela
 
+<div align="center">
+
 ![](src/design/Screenshot_d.jpg)
 
 ![](src/design/Screenshot_m.jpg)
+
+</div>
 
 ### Links
 
